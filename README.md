@@ -1,20 +1,50 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Vishav Mehra</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishavmehra&label=Profile%20views&color=0e75b6&style=flat" alt="vishavmehra" /> </p>
+<h1 align="center">Hello 👋, My Name is Vishav</h1>
+<h3 align="center">I am a full stack developer from India</h3>
+<!--defining python code section-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishavmehra&theme=onedark" alt="vishavmehra" /></a> </p>
+## Who am I :point_down:?
+ ```python
+ from vishav_mehra import personal_details
+  # from VM_Personal import personal_ambitions
+ 
+ class WhoAmI:
+ 	name = 'Vishav Mehra'
+	current_education = "B.Tech IT"
+	hobbies = [   Binge watching , Poetry , Coding   ]	
+	# return city name ...
+	def getCity():
+		return NewDelhi_India()
+	# return public ambitions ...
+	def Ambitions():
+		Be_Successful()
+		Contribute_My_Skills_For_Betterment()
+		Be_The_Best()
+		# assume 10  more ambitions here ;)
+  ```	
 
-- 🌱 I’m currently learning **Rust , Deep learning**
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+## Current Status
+- 🔭 I’m currently working on **Rust and Deep Learning Techniques**.
+
+- 🌱 I’m currently diving more deeper into **Deep Learning and polishing my DSA skills.**
+
+- 👯 I’m looking to collaborate on **Full Stack Websits and ML/DL Projects**
+
+<!-- - 👨‍💻 All of my projects are available at [My portfolio website]() -->
+
+<!-- - 💬 Ask me about **Data Science, Machine Learning,Deep Learning.** -->
 
 - 📫 How to reach me **mehravishav26@gmail.com**
 
-<div> <a href="https://www.linkedin.com/in/vishav-mehra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!-- - 📄 Know about my experiences [resume]() -->
+
+<div> <a href="https://www.linkedin.com/in/in/vishav-mehra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/vishavmehra" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mehravishav26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/vishav-mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/vishav-mehra" height="30" width="40" /></a><a href="https://www.hackerrank.com/mehravishav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="mehravishav26" height="30" width="40" /></a><a href="https://www.leetcode.com/vishav__mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="vishav__mehra" height="30" width="40" /></a><a href="https://codeforces.com/profile/vishav_mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="vishav_mehra" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/mehravishav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="mehravishav26" height="30" width="40" /></a><a href="https://www.codechef.com/users/mehravishav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="mehravishav26" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/vishav-mehra-755107208" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/vishav-mehra" height="30" width="40" /></a><a href="https://www.hackerrank.com/mehravishav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="mehravishav26" height="30" width="40" /></a><a href="https://www.leetcode.com/vishav__mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="vishav__mehra" height="30" width="40" /></a><a href="https://codeforces.com/profile/vishav_mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="vishav_mehra" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/mehravishav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="mehravishav26" height="30" width="40" /></a><a href="https://www.codechef.com/users/mehravishav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="mehravishav26" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,7 +75,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/rust-plain.svg" alt="Rust" width="40" height="40"/>
 </p>
-
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishavmehra&layout=compact&theme=dark" alt=vishavmehra />
 
